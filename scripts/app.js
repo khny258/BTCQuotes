@@ -33,6 +33,9 @@
     , {
         quote: "Bitcoin may be the TCP/IP of money.", author: "Paul Buchheit, Creator of Gmail"
     }
+    , { quote: "The flood of dollars into the market will dilute the value of the dollar. People will move to certainty. There are always only 21 million bitcoin.", author: "Tim Draper"
+
+    }
     ];
     const btn=document.getElementById("generate-btn");
     btn.addEventListener("click", function() {
