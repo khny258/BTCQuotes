@@ -4,7 +4,12 @@
 
 body {
     background: white;
-    overflow: hidden;
+    .example::-webkit-scrollbar {
+        display: none;
+      }
+    .example {
+        -ms-overflow-style: none;
+      }
 }
 
 .quote-container {
