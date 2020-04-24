@@ -36,6 +36,18 @@
     , { quote: "The flood of dollars into the market will dilute the value of the dollar. People will move to certainty. There are always only 21 million bitcoin.", author: "Tim Draper"
 
     }
+    , { quote: "There are 3 eras of currency: Commodity based, politically based, and now, math based.", author: "Chris Dixon, Co-founder of Hunch now owned by eBay, Co-founder of SiteAdvisor now owned by McAfee"
+
+    }
+    , { quote: "I am very intrigued by Bitcoin. It has all the signs. Paradigm shift, hackers love it, yet it’s derided as a toy. Just like microcomputers.", author: "Paul Graham, Creator of Yahoo Store"
+
+    } 
+    , { quote: "Bitcoin is a classic network effect, a positive feedback loop. The more people who use Bitcoin, the more valuable Bitcoin is for everyone who uses it, and the higher the incentive for the next user to start using the technology. Bitcoin shares this network effect property with the telephone system, the web, and popular Internet services like eBay and Facebook.", author: "Marc Andreessen, entrepreneur & investor"
+
+    }
+    , { quote: "You can't stop things like Bitcoin. It will be everywhere, and the world will have to readjust. World governments will have to readjust.", author: "John McAfee, Founder of McAfee"
+
+    } 
     ];
     const btn=document.getElementById("generate-btn");
     btn.addEventListener("click", function() {
